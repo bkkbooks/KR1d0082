@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR1d0082_000.yaml, hash: 'sha256:8f46f57ed09e840b97f413b162c2dfb20f6f5c0c5f6963210bcc001787cb2bab'}
   - {seq: 1, filename: KR1d0082_001.yaml, hash: 'sha256:021d3b1f884da6f87529b39eae77b489824b3091f632df834bfad39dac89f724'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1d0082_000.markers.yaml, hash: 'sha256:64c6c9df584a9c9e5df8b0754cc847fb03c6c3a136a8f7ab819340fe91c97a98'}
-  - {seq: 1, role: markers, filename: assets/KR1d0082_001.markers.yaml, hash: 'sha256:5956880985da559070efce8cf206fbdb9167c7997a151e8ab7ee716024dd94bc'}
+  - {seq: 0, role: markers, filename: assets/KR1d0082_000.markers.yaml, hash: 'sha256:0703d1e69bd8aeaa765c55833ce1d0072ceb256fb72ad2125aef75064dd66954'}
+  - {seq: 1, role: markers, filename: assets/KR1d0082_001.markers.yaml, hash: 'sha256:32824e55d5e82e03ed196815e957db57be300478c84375ab6fbb38aeede6bb98'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 郊社禘祫問
   type: section
   level: 1
-hash: sha256:c1c45f8e28d7cc512e623197876430a62888a9b78a240522c0f5be537de4b225
+hash: sha256:826d337e32834c256da2458af1c63811583d49ae490f0515f62ca0fb00d033e9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
